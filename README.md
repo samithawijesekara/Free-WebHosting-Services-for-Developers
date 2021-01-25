@@ -4,13 +4,13 @@
 Please read the [Contribution-Guidelines](#contribution.md)
 
 ### Table of Content
--01 [What is the important of free web hosting?](#What)</br>
+-01 [What is the importance of free web hosting?](#What)</br>
 -02 [Can I host my project site 100% free?](#free)</br>
 -03 [Free web hosting services for developers](#services)</br>
 -04 [Contributors](#contributors)</br>
 
 
-## What is the important of free web hosting?<a name="What"/>
+## What is the importance of free web hosting?<a name="What"/>
 sample text.<br>
 
 ## Can I host my project site 100% free?<a name="free"/>
