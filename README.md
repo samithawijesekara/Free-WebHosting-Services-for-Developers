@@ -5,17 +5,17 @@
 Please read the [Contribution-Guidelines](#contribution.md)
 
 ### Table of Content
--01 [What is the importance of free web hosting?](#What)</br>
--02 [Can I host my project site 100% free?](#free)</br>
--03 [Free web hosting services for developers](#services)</br>
--04 [Contributors](#contributors)</br>
+- [What is the importance of free web hosting?](#What)</br>
+- [Can I host my project site 100% free?](#free)</br>
+- [Free web hosting services for developers](#services)</br>
+- [Contributors](#contributors)</br>
 
 
 ## What is the importance of free web hosting?<a name="What"/>
-sample text.<br>
+sample text.<br><br><br>
 
 ## Can I host my project site 100% free?<a name="free"/>
-sample text.<br>
+sample text.<br><br><br>
 
 ## Free web hosting services for developers<a name="services"/>
 
@@ -35,6 +35,8 @@ sample text.<br>
  <img src="000webhost.png" width="500"><br>
 
 
+
+<br><br>
 ## Contributors<a name="contributors"/>
 | Lakshitha Dhyan  |    Chathura Lalinda    | Dasuni Maheshika  |    Samitha Wijesekara    |
 | -------------    | ------------- | -------------    | ------------- |
