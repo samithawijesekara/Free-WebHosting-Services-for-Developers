@@ -18,11 +18,22 @@ sample text.<br>
 sample text.<br>
 
 ## Free web hosting services for developers<a name="services"/>
-| Hosting Service  |    Details    |
-| -------------    | ------------- |
-| GitHub Pages     | Content Cell  |
-| Netlify          | Content Cell  |
-<br>
+
+### 1. GitHub Pages<br>
+ Small Description about this hosting service.<br>
+ [https://pages.github.com/](https://pages.github.com/)<br>
+ <img src="github.png" width="500"><br>
+
+### 2. Netlify<br>
+ Small Description about this hosting service.<br> 
+ [https://www.netlify.com/](https://www.netlify.com/)<br>
+ <img src="netlify.png" width="500"><br>
+
+### 3. 000WebHost<br>
+ Small Description about this hosting service.<br> 
+ [https://www.000webhost.com/](https://www.000webhost.com/)<br>
+ <img src="000webhost.png" width="500"><br>
+
 
 ## Contributors<a name="contributors"/>
 | Lakshitha Dhyan  |    Chathura Lalinda    | Dasuni Maheshika  |    Samitha Wijesekara    |
