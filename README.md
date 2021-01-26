@@ -1,6 +1,6 @@
 # Free-Web-Hosting-Services-for-Developers 💻🌍
 
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/samithawijesekara/Free-WebHosting-Services-for-Developers?color=green&logo=Github">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/samithawijesekara/Free-WebHosting-Services-for-Developers?color=green&logo=Github"> [![HitCount](http://hits.dwyl.com/samithawijesekara/Free-WebHosting-Services-for-Developers.svg)](http://hits.dwyl.com/samithawijesekara/Free-WebHosting-Services-for-Developers)
 
 Please read the [Contribution-Guidelines](#contribution.md)
 
