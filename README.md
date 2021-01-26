@@ -21,17 +21,17 @@ sample text.<br><br><br>
 
 ### 1. GitHub Pages<br>
  Small Description about this hosting service.<br>
- [https://pages.github.com/](https://pages.github.com/)<br>
+ [https://pages.github.com/](https://pages.github.com/)<br><br>
  <img src="img/githubpages.PNG" width="500"><br><br>
 
 ### 2. Netlify<br>
  Small Description about this hosting service.<br> 
- [https://www.netlify.com/](https://www.netlify.com/)<br>
+ [https://www.netlify.com/](https://www.netlify.com/)<br><br>
  <img src="img/netlify.PNG" width="500"><br><br>
 
 ### 3. 000WebHost<br>
  Small Description about this hosting service.<br> 
- [https://www.000webhost.com/](https://www.000webhost.com/)<br>
+ [https://www.000webhost.com/](https://www.000webhost.com/)<br><br>
  <img src="img/000webhost.PNG" width="500"><br><br>
 
 
