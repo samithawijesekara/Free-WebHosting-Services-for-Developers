@@ -5,10 +5,10 @@
 Please read the [Contribution-Guidelines](#contribution.md)
 
 ### Table of Content
-- [What is the importance of free web hosting?](#What)</br>
-- [Can I host my project site 100% free?](#free)</br>
-- [Free web hosting services for developers](#services)</br>
-- [Contributors](#contributors)</br>
+- [What is the importance of free web hosting?](#What)<br>
+- [Can I host my project site 100% free?](#free)<br>
+- [Free web hosting services for developers](#services)<br>
+- [Contributors](#contributors)<br><br>
 
 
 ## What is the importance of free web hosting?<a name="What"/>
@@ -22,17 +22,17 @@ sample text.<br><br><br>
 ### 1. GitHub Pages<br>
  Small Description about this hosting service.<br>
  [https://pages.github.com/](https://pages.github.com/)<br>
- <img src="github.png" width="500"><br>
+ <img src="img/githubpages.png" width="500"><br>
 
 ### 2. Netlify<br>
  Small Description about this hosting service.<br> 
  [https://www.netlify.com/](https://www.netlify.com/)<br>
- <img src="netlify.png" width="500"><br>
+ <img src="img/netlify.png" width="500"><br>
 
 ### 3. 000WebHost<br>
  Small Description about this hosting service.<br> 
  [https://www.000webhost.com/](https://www.000webhost.com/)<br>
- <img src="000webhost.png" width="500"><br>
+ <img src="img/000webhost.png" width="500"><br>
 
 
 
