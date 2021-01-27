@@ -39,7 +39,15 @@ sample text.<br><br><br>
  [https://dashboard.heroku.com/](https://dashboard.heroku.com/)<br><br>
  <img src="img/heroku.PNG" width="500"><br><br>
  
+ ### 5. Firebase<br>
+ Small Description about this hosting service.<br> 
+ [https://firebase.google.com/](https://firebase.google.com/)<br><br>
+ <img src="img/firebase.PNG" width="500"><br><br>
  
+ ### 6. Vercel<br>
+ Small Description about this hosting service.<br> 
+ [https://vercel.com/](https://vercel.com/)<br><br>
+ <img src="img/vercel.PNG" width="500"><br><br>
 
 <br><br>
 ## Contributors<a name="contributors"/>
