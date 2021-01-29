@@ -5,10 +5,9 @@
 * Use this code line to add new Free hosting Service to this repo. 
 * Copy & paste this code in new line.
 ```
-### [No]. [Hosting service name]<br>
- [Small Description about this hosting service.]<br>
- [Hosting service URL](Hosting service URL)<br><br>
- <img src="img/[screenshotName].PNG" width="500"><br><br>
+### No. Hosting service name<br>
+ Small Description about this hosting service. [(Hosting service URL)](Hosting service URL)<br><br>
+ <img src="img/screenshotName.PNG" width="500"><br><br>
 ``` 
  * Change the [No]
  * Change the [Hosting service name]
