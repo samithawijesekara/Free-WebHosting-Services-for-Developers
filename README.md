@@ -1,4 +1,4 @@
-# Free-Web-Hosting-Services-for-Developers 💻🌍
+# Free Web Hosting Services for Developers 💻🌍
 
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/samithawijesekara/Free-WebHosting-Services-for-Developers?color=green&logo=GitHub"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/samithawijesekara/Free-WebHosting-Services-for-Developers?logo=Git&logoColor=white">
 
