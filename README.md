@@ -12,10 +12,10 @@
 
 
 ## What is the importance of free web hosting?<a name="What"/>
-sample text.<br><br><br>
+As the name suggests, free website hosting is a free non-paid web hosting service. There are many web hosts who provide subdomains to anyone who wants to make a website. Some of such popular free web hosts include below. As a student or a developer, these services are most useful for day to day projects.<br><br><br>
 
 ## Can I host my project site 100% free?<a name="free"/>
-sample text.<br><br><br>
+**Yes, you can.!!** Check out the hosting services mentioned below.<br><br><br>
 
 ## Free web hosting services for developers<a name="services"/>
 
