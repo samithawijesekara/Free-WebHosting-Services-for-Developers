@@ -44,11 +44,11 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
  <img src="img/vercel.PNG" width="500"><br><br>
  
  ### 7. Render<br>
- Render is a unified best platform. Render supports you to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git. You can take all the services from one place such as Web Apps, Static sites, Background Workers, APIs, Corn Jobs, Dockerfiles, PostgreSQL etc. 
+ Render is a unified best platform. Render supports you to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git. You can take all the services from one place such as Web Apps, Static sites, Background Workers, APIs, Corn Jobs, Dockerfiles, PostgreSQL etc. [(https://render.com/)](https://render.com/)<br><br>
  <img src="img/render.PNG" width="500"><br><br>
  
  ### 8. Awardspace<br>
- Awardspace is consist with a wide range of services. Best opportunity for Web Hosting Solutions for your every need. Free Web Hosting with PHP & MySQL. Create your first website for free and enjoy the service with awardspace. There is a Shared Hosting Service for those who want to start big, and grow bigger. The WordPress Web Hosting Service is the perfect solution for anyone that wants to create a WordPress website.
+ Awardspace is consist with a wide range of services. Best opportunity for Web Hosting Solutions for your every need. Free Web Hosting with PHP & MySQL. Create your first website for free and enjoy the service with awardspace. There is a Shared Hosting Service for those who want to start big, and grow bigger. The WordPress Web Hosting Service is the perfect solution for anyone that wants to create a WordPress website. [(https://www.awardspace.com/)](https://www.awardspace.com/)<br><br>
  <img src="img/awardspace.PNG" width="500"><br><br>
  
 
