@@ -42,6 +42,11 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
  ### 6. Vercel<br>
  Vercel is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. You can build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you git push. Perfect for Next.js and other Static Site Generators. [(https://vercel.com/)](https://vercel.com/)<br><br>
  <img src="img/vercel.PNG" width="500"><br><br>
+ 
+ ### 7. Render<br>
+ Render is a unified best platform. Render supports you to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git. You can take all the services from one place such as Web Apps, Static sites, Background Workers, APIs, Corn Jobs, Dockerfiles, PostgreSQL etc. 
+ <img src="img/render.PNG" width="500"><br><br>
+ 
 
 <br><br>
 ## Contributors<a name="contributors"/>
