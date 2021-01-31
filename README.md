@@ -55,6 +55,10 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
  Neocities is a social network of 342,000 web sites that are bringing back the lost individual creativity of the web. Neocities will offer free static web hosting and tools that allow you to create your own web site. You can create your own free website with Unlimited creativity and zero ads. [(https://neocities.org/)](https://neocities.org/)<br><br>
  <img src="img/neocities.PNG" width="500"><br><br>
  
+ ### 10. Versoly<br>
+ Versoly is built on top of the latest technologies such as Amazon Web Services, so you never have to worry about page speeds again. With Versoly, build landing pages, publish blog posts and collect leads, to drive more conversions, increase traffic and reduce headaches. You can create a unique looking landing page in under 30 minutes easily with our 120+ pre-built blocks and templates. [(https://versoly.com/)](https://versoly.com/)<br><br>
+ <img src="img/versoly.PNG" width="500"><br><br>
+ 
  
 
 <br><br>
