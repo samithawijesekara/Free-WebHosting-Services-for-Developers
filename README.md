@@ -51,6 +51,11 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
  Awardspace is consist with a wide range of services. Best opportunity for Web Hosting Solutions for your every need. Free Web Hosting with PHP & MySQL. Create your first website for free and enjoy the service with awardspace. There is a Shared Hosting Service for those who want to start big, and grow bigger. The WordPress Web Hosting Service is the perfect solution for anyone that wants to create a WordPress website. [(https://www.awardspace.com/)](https://www.awardspace.com/)<br><br>
  <img src="img/awardspace.PNG" width="500"><br><br>
  
+ ### 9. Neocities<br>
+ Neocities is a social network of 342,000 web sites that are bringing back the lost individual creativity of the web. Neocities will offer free static web hosting and tools that allow you to create your own web site. You can create your own free website with Unlimited creativity and zero ads. [(https://neocities.org/)](https://neocities.org/)<br><br>
+ <img src="img/neocities.PNG" width="500"><br><br>
+ 
+ 
 
 <br><br>
 ## Contributors<a name="contributors"/>
