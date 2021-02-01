@@ -59,6 +59,14 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
  Versoly is built on top of the latest technologies such as Amazon Web Services, so you never have to worry about page speeds again. With Versoly, build landing pages, publish blog posts and collect leads, to drive more conversions, increase traffic and reduce headaches. You can create a unique looking landing page in under 30 minutes easily with our 120+ pre-built blocks and templates. [(https://versoly.com/)](https://versoly.com/)<br><br>
  <img src="img/versoly.PNG" width="500"><br><br>
  
+ ### 11. Pantheon<br>
+ At Pantheon, Secure the autonomy and tools you need to own and optimize your brand's most visible asset (your website) to boost performance and accelerate growth. Design, test, launch and optimize every project at warp speed with a lean, Agile team. Pantheon is the fastest, most scalable, stable and secure environment for WordPress and Drupal sites. [(https://pantheon.io/)](https://pantheon.io/)<br><br>
+ <img src="img/pantheon.PNG" width="500"><br><br>
+ 
+ ### 12. Freehostia<br>
+ Freehostia's load-balanced cluster platform has proven to be faster than the widespread one-server hosting platform solution. Their web hosting plans are optimized to work with the most popular PHP web applications: Joomla, WordPress, PrestaShop. They have provided 50 other free applications by their in-house built 1-Click Web Applications Installer. At Freehostia, they offer a variety of web hosting services, from free hosting accounts all the way to VPS and dedicated servers. [(https://freehostia.com/)](https://freehostia.com/)<br><br>
+ <img src="img/freehostia.PNG" width="500"><br><br>
+ 
  
 
 <br><br>
