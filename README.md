@@ -67,6 +67,9 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
  Freehostia's load-balanced cluster platform has proven to be faster than the widespread one-server hosting platform solution. Their web hosting plans are optimized to work with the most popular PHP web applications: Joomla, WordPress, PrestaShop. They have provided 50 other free applications by their in-house built 1-Click Web Applications Installer. At Freehostia, they offer a variety of web hosting services, from free hosting accounts all the way to VPS and dedicated servers. [(https://freehostia.com/)](https://freehostia.com/)<br><br>
  <img src="img/freehostia.PNG" width="500"><br><br>
  
+ ### 13. Byte<br>
+ Byet provides you with a massive free, and ad-free load balanced free web hosting service including PHP, MySQL, FTP, Vistapanel & more!.[(https://byet.host/)](https://byet.host/)<br><br>
+ <img src="img/Byte.PNG" width="500"><br><br>
  
 
 <br><br>
