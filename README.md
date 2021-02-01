@@ -81,7 +81,7 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
 
  ### 16. Surge<br>
  There’s only six keystrokes between you and deployment: Type surge and hit enter in your project directory to get it online immediately.[(https://surge.sh/)](https://surge.sh/)<br><br>
- <img src="img/surge.PNG" width="500"><br><br>
+ <img src="img/surge.png" width="500"><br><br>
  
 
 <br><br>
