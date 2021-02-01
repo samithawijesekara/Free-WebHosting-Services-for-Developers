@@ -78,6 +78,10 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
  ### 15. Tilda<br>
  One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain. [(https://tilda.cc/)](https://tilda.cc/)<br><br>
  <img src="img/Tilda.PNG" width="500"><br><br>
+
+ ### 16. Surge<br>
+ There’s only six keystrokes between you and deployment: Type surge and hit enter in your project directory to get it online immediately.[(https://surge.sh/)](https://surge.sh/)<br><br>
+ <img src="img/surge.PNG" width="500"><br><br>
  
 
 <br><br>
