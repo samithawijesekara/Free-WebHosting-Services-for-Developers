@@ -71,6 +71,10 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
  Byet provides you with a massive free, and ad-free load balanced free web hosting service including PHP, MySQL, FTP, Vistapanel & more!. [(https://byet.host/)](https://byet.host/)<br><br>
  <img src="img/Byte.PNG" width="500"><br><br>
  
+  ### 14. Alwaysdata<br>
+ Byet provides you with a massive free, and ad-free load balanced free web hosting service including PHP, MySQL, FTP, Vistapanel & more!. [(https://www.alwaysdata.com/en/)](https://www.alwaysdata.com/en/)<br><br>
+ <img src="img/alwaysdata.PNG" width="500"><br><br>
+ 
 
 <br><br>
 ## Contributors<a name="contributors"/>
