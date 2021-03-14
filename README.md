@@ -4,6 +4,8 @@
 
 📕 Please read the [Contribution-Guidelines](contribution.md)
 
+<img src="img/Banner.png">
+
 ### Table of Content
 - [What is the importance of free web hosting?](#What)<br>
 - [Can I host my project site 100% free?](#free)<br>
